@@ -14,11 +14,11 @@ I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC La
 
 Research interests
 ======
- ⇒ Advanced Semiconductor Devices
- ⇒ Semiconductor Processes
- ⇒ Application of Machine Learning in Semiconductor Research
- ⇒ Nanoscale devices
- ⇒ 2D Materials based FETs
+ ⇒ Advanced Semiconductor Devices  
+ ⇒ Semiconductor Processes  
+ ⇒ Application of Machine Learning in Semiconductor Research  
+ ⇒ Nanoscale devices  
+ ⇒ 2D Materials based FETs  
 
 Education
 ======
