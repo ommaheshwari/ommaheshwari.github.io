@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/). My research interest is Advanced Semiconductor Process Optimisation through Machine Learning.
-* [Detailed CV](https://drive.google.com/file/d/1oa5Li_SKB4-LjE642QYJlLHjvAHtwaIr/view?usp=sharing)
+
 
 
 Research interests
