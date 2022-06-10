@@ -53,14 +53,14 @@ Work experience
 
 Courses Completed
 ======
-    * Physics of Transistors
-    * Microfabrication
-    * Machine Learning
-    * Analog CMOS IC design
-    * VLSI Design
-    * Microelectronics lab
-    * Quantum Chemistry
-    * Artificial Intelligence 
-    * Computing with Python
-    * Electronics Instrumentation
+* Physics of Transistors
+* Microfabrication
+* Machine Learning
+* Analog CMOS IC design
+* VLSI Design
+* Microelectronics lab
+* Quantum Chemistry
+* Artificial Intelligence 
+* Computing with Python
+* Electronics Instrumentation
 
