@@ -102,7 +102,7 @@ author:
   instagram        : "om.maheshwari"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/om-maheshwari/"
+  linkedin         : "om-maheshwari"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -213,7 +213,7 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
+    values:https://www.instagram.com/
       layout: single
       author_profile: true
       share: true
@@ -284,7 +284,7 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
+category_archive:https://www.instagram.com/
   type: liquid
   path: /categories/
 tag_archive:
