@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Om Maheshwari"
-  avatar           : "profile.png"
+  avatar           : "om_dp.png"
   bio              : "Prime Minister's Research Fellow, Electrical Engineering, IIT Gandhinagar"
   location         : "nanoDC Lab, 5/207, IITGN"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "om.maheshwari@iitgn.ac.in"
+  om.maheshwari@iitgn.ac.in            : "om.maheshwari@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "om1234"
   foursquare       :
-  github           : 
+  github           : "ommaheshwari"
   google_plus      :
   keybase          :
   instagram        : "om.maheshwari"
