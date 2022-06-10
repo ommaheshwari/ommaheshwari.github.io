@@ -35,25 +35,32 @@ Technical skills
 
 **Programming -** Python, Verilog, C, My SQL, LISP, HTML
 
-Relevant courses
+Work experience
+======
+* **Summer 2022 - Present: Graduate Teaching Fellow**
+  * IIT Gandhinagar
+  * Course: Introduction to Analog and Digital Electronics
+
+* **Summer 2021 - Present: Teaching Assistant**
+  * IIT Gandhinagar
+  * Course: Introduction to Analog and Digital Electronics, Physics of Transistors
+  * Instructor: [Prof. Tarun Kumar Agarwal](https://iitgn.ac.in/faculty/ee/fac-tarun)
+  
+* **Summer 2019: Student Trainee**
+  * Bharat Heavy Electricals Limited, Haridwar
+  * Topic: Computerised Numeric Control
+  * Supervisor: Shri PC Sinha, Deputy Manager, BHEL, Haridwar
+
+Courses Completed
 ======
  ⇒ Physics of Transistors
- 
  ⇒ Microfabrication
- 
  ⇒ Machine Learning
-
  ⇒ Analog CMOS IC design
-
  ⇒ VLSI Design
- 
  ⇒ Microelectronics lab
- 
  ⇒ Quantum Chemistry
-
  ⇒ Artificial Intelligence 
-
  ⇒ Computing with Python
-
  ⇒ Electronics Instrumentation
 
