@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Om Maheshwari"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Om Maheshwari"
-description              : &description "Prime Minister Research Fellow, Electrical Engineering, IIT Gandhinagar "
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://ommaheshwari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ommaheshwari/ommaheshwari.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "dsharda.d@iitgn.ac.in"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "D Sharda Devi "
-  #avatar           : ""
-  bio              : "Prime Minister Research Fellow, Electrical Engineering, IIT Gandhinagar "
-  location         : "nanoDC Lab, 5/207, IITGN"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : &email "dsharda.d@iitgn.ac.in"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/nhome/?report%2Esuccess=7AuwAys0eJ_ZuRu5ESmunWlXtiQW8aNuTBzn0-YfuqOL2Wgyjw0oeY2QJaOQsQIi2hJLaZaLsmMO8LSishA5ivt5u_QvuieuyienBiRXe12R05Q"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
