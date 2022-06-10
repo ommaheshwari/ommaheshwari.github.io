@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "om.maheshwari@iitgn.ac.in"
+  om.maheshwari@iitgn.ac.in            : "om.maheshwari@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -213,7 +213,7 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:https://www.instagram.com/
+    values:
       layout: single
       author_profile: true
       share: true
