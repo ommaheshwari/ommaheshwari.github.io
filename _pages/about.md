@@ -8,7 +8,7 @@ redirect_from:
   - /about.html/
 ---
 
-I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/). I am currently working on Advanced Semiconductor Process Optimisation through Machine Learning.
+I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/). I am currently working on Machine learning assisted device-process co-optimization for next generation CMOS technologies.
 
 
 
@@ -33,15 +33,18 @@ Technical Skills
 
 Work experience
 ======
-* **Summer 2022 - Present: Graduate Teaching Fellow**
+* **July 2022 - Present : PMRF-NPTEL Teaching Assistant**
+  * NPTEL, IIT Delhi
+  * Course: Analog Electronic Circuits
+  
+* **2021 - Present: Teaching Assistant**
+  * IIT Gandhinagar
+  * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors, Microelectronics Lab
+
+* **Summer 2022 : Graduate Teaching Fellow**
   * IIT Gandhinagar
   * Course: Introduction to Analog and Digital Electronics
 
-* **Summer 2021 - Present: Teaching Assistant**
-  * IIT Gandhinagar
-  * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors
-  * Instructor: [Prof. Tarun Kumar Agarwal](https://iitgn.ac.in/faculty/ee/fac-tarun)
-  
 * **Summer 2019: Student Trainee**
   * Bharat Heavy Electricals Limited, Haridwar
   * Topic: Computerised Numeric Control
