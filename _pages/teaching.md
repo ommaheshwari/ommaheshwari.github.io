@@ -6,10 +6,23 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
 * Fall 2022: **Teaching Assistant-PMRF**, NPTEL
  
+  * Course: **Digital Electronic Circuits-IIT Kharagpur**
+
+  * Instructor: [Prof. Goutam Saha](http://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
+
+  * Youtube Playlist: [NPTEL Digital Electronic Circuits](https://www.youtube.com/playlist?list=PLUSiNOu9YYdR-x4SULe-9Ww8_z79dONxw)
+
+* Fall 2022: **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: **Physics of Transistors**
+
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/)
+
+* Fall 2022: **Teaching Assistant-PMRF**, NPTEL
+ 
   * Course: **Analog Electronic Circuits-IIT Delhi**
 
   * Instructor: [Prof. Shouri Chatterjee](https://web.iitd.ac.in/~shouri/)
-  * Session Link: [Google Meet- Sunday 3-4PM](https://meet.google.com/guz-mpsg-usm)
   * Youtube Playlist: [NPTEL Analog Electronic Circuits](https://www.youtube.com/playlist?list=PLUSiNOu9YYdQctZEvUgvIq1Lr9j44rhFy)
 
 * Fall 2022: **Teaching Assistant**, IIT Gandhinagar
