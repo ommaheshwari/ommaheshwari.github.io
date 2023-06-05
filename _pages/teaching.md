@@ -4,6 +4,21 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
+* Spring 2023: **Teaching Assistant-PMRF**, NPTEL
+ 
+  * Course: **Digital Electronic Circuits-IIT Kharagpur**
+
+  * Instructor: [Prof. Goutam Saha](http://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
+ 
+  * Youtube Playlist: [NPTEL Analog Electronic Circuits](https://www.youtube.com/playlist?list=PLUSiNOu9YYdR-x4SULe-9Ww8_z79dONxw)
+
+* Spring 2023: **Graduate Teaching Fellow**, IIT Gandhinagar
+ 
+  * Course: **Analog CMOS IC Design Lab**
+
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/)
+
+
 * Fall 2022: **Teaching Assistant-PMRF**, NPTEL
  
   * Course: **Analog Electronic Circuits-IIT Delhi**
