@@ -33,17 +33,20 @@ Technical Skills
 
 Work experience
 ======
+* **December 2022 - Present : Chairperson - IEEE Electron Devices Society IITGn**
+  * Student Branch Chapter, IIT Gandhinagar
+  
 * **July 2022 - Present : PMRF-NPTEL Teaching Assistant**
-  * NPTEL, IIT Delhi
-  * Course: Analog Electronic Circuits
+  * NPTEL
+  * Course: Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP)
   
 * **2021 - Present: Teaching Assistant**
   * IIT Gandhinagar
   * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors, Microelectronics Lab
 
-* **Summer 2022 : Graduate Teaching Fellow**
+* **2022 - Present: Graduate Teaching Fellow**
   * IIT Gandhinagar
-  * Course: Introduction to Analog and Digital Electronics
+  * Course: Introduction to Analog and Digital Electronics (2022), Analog CMOS IC Design Lab (2023)
 
 * **Summer 2019: Student Trainee**
   * Bharat Heavy Electricals Limited, Haridwar
@@ -57,6 +60,7 @@ Work experience
 Courses Completed
 ======
 * Physics of Transistors
+* Carrier Transport in Advanced Semiconductor Devices
 * Microfabrication and Semiconductor Processes
 * Machine Learning
 * Analog CMOS IC design
