@@ -38,11 +38,11 @@ Work experience
   
 * **July 2022 - Present : PMRF-NPTEL Teaching Assistant**
   * NPTEL
-  * Course: Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP)
+  * Course: Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP), Digital System Design (IITRPR)
   
 * **2021 - Present: Teaching Assistant**
   * IIT Gandhinagar
-  * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors, Microelectronics Lab
+  * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors, Microelectronics Lab, Analog CMOS IC Design
 
 * **2022 - Present: Graduate Teaching Fellow**
   * IIT Gandhinagar
