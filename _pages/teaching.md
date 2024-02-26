@@ -4,17 +4,44 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
-* Fall 2022: **Teaching Assistant-PMRF**, NPTEL
+* Spring 2024: **Teaching Assistant-PMRF**, NPTEL
+ 
+  * Course: **Digital System Design-IIT Ropar**
+
+  * Instructor: [Prof. Neeraj Goel](https://sites.google.com/view/neerajgoel/)
+  * Live Sessions [Every Monday, 6PM-8PM](https://meet.google.com/uav-awcg-kbd).
+  * Youtube Playlist: [Digital System Design NPTEL 2024](https://youtube.com/playlist?list=PLUSiNOu9YYdSWFKB8-887gcV1KZL5E8rA&si=p7S7v0qilwyscVhH)
+
+* Spring 2024: **Teaching Assistant**, IIT Gandhinagar
+
+  * Course: **Analog CMOS IC Design Lab**
+
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/)
+
+* Fall 2023: **Teaching Assistant-PMRF**, NPTEL
+ 
+  * Course: **NPTEL GATE EC**
+
+  * Website: [NPTEL GATE EC](https://gate.nptel.ac.in/videosolutions.php?branchID=1&cid=2)
+
+
+* Fall 2023: **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: **Physics of Transistors**
+
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/)
+ 
+* Spring 2023: **Teaching Assistant-PMRF**, NPTEL
  
   * Course: **Digital Electronic Circuits-IIT Kharagpur**
 
   * Instructor: [Prof. Goutam Saha](http://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
 
   * Youtube Playlist: [NPTEL Digital Electronic Circuits](https://www.youtube.com/playlist?list=PLUSiNOu9YYdR-x4SULe-9Ww8_z79dONxw)
-
-* Fall 2022: **Teaching Assistant**, IIT Gandhinagar
  
-  * Course: **Physics of Transistors**
+* Spring 2023: **Graduate Teaching Fellow**, IIT Gandhinagar
+
+  * Course: **Analog CMOS IC Design Lab**
 
   * Instructor: [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/)
 
