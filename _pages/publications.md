@@ -8,7 +8,7 @@ author_profile: true
 
 * **Om Maheshwari**, A. Singh, N. Mohapatra. “Training Free Parameter Extraction for Compact Device Models using Sequential Bayesian Optimization with Adaptive Sampling”, **IEEE Transactions on Electron Devices, 2024**, DOI: 10.1109/TED.2024.3478177.
 
-* **Om Maheshwari**, A. Singh, N. Mohapatra. “Parasitic Capacitance in Nanosheet FETs: Extraction of Different Components and Their Analytical Modeling," **IEEE Transactions on Electron Devices, 2024**, , vol. 71, no. 5, pp. 2894-2900, May 2024, DOI: 10.1109/TED.2024.3382216.
+* A. Singh, **Om Maheshwari**, N. Mohapatra. “Parasitic Capacitance in Nanosheet FETs: Extraction of Different Components and Their Analytical Modeling," **IEEE Transactions on Electron Devices, 2024**, , vol. 71, no. 5, pp. 2894-2900, May 2024, DOI: 10.1109/TED.2024.3382216.
 
 * **Om Maheshwari**, N. Mohapatra. “Enhanced ANN for Accurate Current Prediction and Circuit Simulation in Nanosheet FETs”, **IEEE EDTM 2024**.
   
