@@ -4,6 +4,14 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
+* Fall 2024: **Teaching Assistant-PMRF**, NPTEL
+ 
+  * Course: **Digital Ciruits - IIT Kharagpur**
+
+  * Instructor: [Prof. Santanu Chattopadhyay](https://www.iitkgp.ac.in/department/RT/faculty/rt-santanu)
+  * Live Sessions [Every Tuesday, 6PM-8PM](https://meet.google.com/hgz-kjwc-oje).
+  * Youtube Playlist: [Digital System Design NPTEL 2024](https://youtube.com/playlist?list=PLUSiNOu9YYdQNNzDoMkYZlb3tau8iu6Cg&si=LA_hSGckkMBiAa8h)
+
 * Spring 2024: **Teaching Assistant-PMRF**, NPTEL
  
   * Course: **Digital System Design-IIT Ropar**
@@ -33,7 +41,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
  
 * Spring 2023: **Teaching Assistant-PMRF**, NPTEL
  
-  * Course: **Digital Electronic Circuits-IIT Kharagpur**
+  * Course: **Digital Electronic Circuits - IIT Kharagpur**
 
   * Instructor: [Prof. Goutam Saha](http://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
 
@@ -47,7 +55,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 
 * Fall 2022: **Teaching Assistant-PMRF**, NPTEL
  
-  * Course: **Analog Electronic Circuits-IIT Delhi**
+  * Course: **Analog Electronic Circuits - IIT Delhi**
 
   * Instructor: [Prof. Shouri Chatterjee](https://web.iitd.ac.in/~shouri/)
   * Youtube Playlist: [NPTEL Analog Electronic Circuits](https://www.youtube.com/playlist?list=PLUSiNOu9YYdQctZEvUgvIq1Lr9j44rhFy)
