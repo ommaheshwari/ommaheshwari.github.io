@@ -33,9 +33,10 @@ Technical Skills
 
 Work experience
 ======
-* **April 2025- August 2025 Research Intern, Micron, India, Technology Development- Advanced Modeling**
+* **April 2025- August 2025: Research Intern, Micron, India** Technology Development- Advanced Modeling
   * Devised a novel ML methodology for modeling and reverse engineering with interpretable insights, for high dimensional and less sampled processes.
-* **April 2024- October 2024 Research Intern, Applied Materials, India, Process Modeling Group**
+    
+* **April 2024- October 2024 Research Intern, Applied Materials, India,** Process Modeling Group
   * Designed a custom Particle Monte-Carlo simulator for modeling feature-scale etching and deposition processes. Implemented a Machine Learning framework for modeling and optimization of Inner-Spacer etching process in Gate-All-Around FETs.
     
 * **December 2022 - Present : Chairperson - IEEE Electron Devices Society IITGn**
