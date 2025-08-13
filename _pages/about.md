@@ -8,7 +8,7 @@ redirect_from:
   - /about.html/
 ---
 
-I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/). I am currently working on Machine learning assisted device-process co-optimization for next generation CMOS technologies.
+I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io). I am currently working on Machine learning assisted device-process co-optimization for next generation CMOS technologies.
 
 
 
