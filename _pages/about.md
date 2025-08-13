@@ -62,7 +62,7 @@ Work experience
   * Robotics Club Pantnagar
 
 
-Courses Completed
+Relevant Coursework   
 ======
 * Physics of Transistors
 * Carrier Transport in Advanced Semiconductor Devices
