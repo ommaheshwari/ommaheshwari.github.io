@@ -8,7 +8,7 @@ redirect_from:
   - /about.html/
 ---
 
-I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io). I am currently working on Machine learning assisted device-process co-optimization for next generation CMOS technologies.
+I am a PMRF Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io). I am currently working on Machine learning assisted device-process co-optimization for next generation CMOS technologies.
 
 
 
@@ -22,7 +22,7 @@ Research interests
 
 Education
 ======
-* **PhD in Electrical Engineering**, IIT Gandhinagar, January 2021 - Present
+* **PhD (PMRF) in Electrical Engineering**, IIT Gandhinagar, January 2021 - Present
 * **B.Tech in Electronics and Communication Enineering**, College of Technology, GBPUA&T, 2016-2020.
   
 Technical Skills
