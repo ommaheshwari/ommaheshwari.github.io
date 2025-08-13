@@ -14,11 +14,10 @@ I am a PMRF Research Scholar in the Discipline of Electrical Engineering at nano
 
 Research interests
 ======
- ⇒ Advanced Semiconductor Devices  
- ⇒ Semiconductor Processes  
  ⇒ Application of Machine Learning in Semiconductor Research  
- ⇒ Process Modeling and Optimization   
- ⇒ 2D Materials based FETs  
+ ⇒ Advanced CMOS Devices  
+ ⇒ Semiconductor Process Modeling and Optimization   
+ ⇒ Next-generation CMOS Device Design   
 
 Education
 ======
