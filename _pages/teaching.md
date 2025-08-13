@@ -13,7 +13,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 
 * Spring 2025: **Teaching Assistant**, IIT Gandhinagar
   * Course: **Microelectronics Lab**
-  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmmohapatra.github.io)
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io)
 
 
 * Spring 2025: **Teaching Assistant-PMRF**, NPTEL
@@ -37,7 +37,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 
 * Spring 2024: **Teaching Assistant**, IIT Gandhinagar
   * Course: **Analog CMOS IC Design Lab**
-  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmmohapatra.github.io)
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io)
 
 
 * Fall 2023: **Teaching Assistant-PMRF**, NPTEL
@@ -47,7 +47,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 
 * Fall 2023: **Teaching Assistant**, IIT Gandhinagar
   * Course: **Physics of Transistors**
-  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmmohapatra.github.io)
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io)
 
  
 * Spring 2023: **Teaching Assistant-PMRF**, NPTEL
@@ -58,7 +58,7 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
  
 * Spring 2023: **Graduate Teaching Fellow**, IIT Gandhinagar
   * Course: **Analog CMOS IC Design Lab**
-  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmmohapatra.github.io)
+  * Instructor: [Prof. Nihar Ranjan Mohapatra](niharmohapatra.github.io)
 
 
 * Fall 2022: **Teaching Assistant-PMRF**, NPTEL
