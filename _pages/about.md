@@ -17,7 +17,7 @@ Research interests
  ⇒ Advanced Semiconductor Devices  
  ⇒ Semiconductor Processes  
  ⇒ Application of Machine Learning in Semiconductor Research  
- ⇒ Process Modeling and Optimization 
+ ⇒ Process Modeling and Optimization   
  ⇒ 2D Materials based FETs  
 
 Education
