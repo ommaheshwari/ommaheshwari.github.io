@@ -17,7 +17,7 @@ Research interests
  ⇒ Advanced Semiconductor Devices  
  ⇒ Semiconductor Processes  
  ⇒ Application of Machine Learning in Semiconductor Research  
- ⇒ Nanoscale devices  
+ ⇒ Process Modeling and Optimization 
  ⇒ 2D Materials based FETs  
 
 Education
@@ -27,18 +27,23 @@ Education
   
 Technical Skills
 ======
-**EDA Tools -** Synopsys TCAD, Cadence Virtuoso, Xilinx ISE Design Suite, MATLAB, LT-Spice, TINA, Arduino
+**EDA Tools -** Synopsys TCAD, Topography, Process Explorer, Quantum ATK, Silvaco Victory Process Analytics, Cadence Virtuoso, Xilinx ISE Design Suite, MATLAB, LT-Spice, TINA, Arduino
 
-**Programming -** Python, Verilog, C, My SQL, LISP, HTML
+**Programming -** Python, Verilog, Verilog-A, Shell
 
 Work experience
 ======
+* **April 2025- August 2025 Research Intern, Micron, India, Technology Development- Advanced Modeling**
+  * Devised a novel ML methodology for modeling and reverse engineering with interpretable insights, for high dimensional and less sampled processes.
+* **April 2024- October 2024 Research Intern, Applied Materials, India, Process Modeling Group**
+  * Designed a custom Particle Monte-Carlo simulator for modeling feature-scale etching and deposition processes. Implemented a Machine Learning framework for modeling and optimization of Inner-Spacer etching process in Gate-All-Around FETs.
+    
 * **December 2022 - Present : Chairperson - IEEE Electron Devices Society IITGn**
   * Student Branch Chapter, IIT Gandhinagar
   
 * **July 2022 - Present : PMRF-NPTEL Teaching Assistant**
   * NPTEL
-  * Course: Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP), Digital System Design (IITRPR)
+  * Course: Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP), Digital System Design (IITRPR), Introduction to Semiconductor Devices (IITH)
   
 * **2021 - Present: Teaching Assistant**
   * IIT Gandhinagar
