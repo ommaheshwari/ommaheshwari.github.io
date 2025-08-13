@@ -4,6 +4,23 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
+* Fall 2025: **Teaching Assistant-PMRF**, NPTEL
+ 
+  * Course: **Introduction to Semiconductor Devices**
+
+  * Instructor: [Prof. Naresh Kumar Emani](https://iith.ac.in/ee/naresh/)
+  * Live Sessions [Every Sunday, 3PM-5PM](meet.google.com/eqj-dtxa-vnu).
+  * Youtube Playlist: [NPTEL Introduction to Semiconductor Devices 2025](https://youtube.com/playlist?list=PLUSiNOu9YYdSQ6yPH_nvIPfXnBQEFUASV&si=WnzBba4S1_hztUp2)
+
+* Spring 2025: **Teaching Assistant-PMRF**, NPTEL
+ 
+  * Course: **Semiconductor Device Modeling and Simulations**
+
+  * Instructor: [Prof. Vivek Dixit](https://www.iitkgp.ac.in/department/EC/faculty/ec-vdixit)
+  * Live Sessions [Every Monday, 6PM-8PM](https://meet.google.com/hgz-kjwc-oje).
+  * Youtube Playlist: [NPTEL Semiconductor Device Modeling and Simulations 2025](https://youtube.com/playlist?list=PLUSiNOu9YYdR0RPNVt2t0nMcJV7UDevz_&si=zUF2KenNh4-64PTg)
+
+
 * Fall 2024: **Teaching Assistant-PMRF**, NPTEL
  
   * Course: **Digital Ciruits - IIT Kharagpur**
