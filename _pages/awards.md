@@ -11,4 +11,7 @@ author_profile: true
 * Certification in **Scientific Writing** by IIT Gandhinagar, November 2021.   
 * Awarded **Vice Chancellor's Gold Medal** for B.Tech. in Electronics and Communication Engineering, Batch 2020, College of Technology, GBPUA&T.
 * Awarded **Merit Scholarship** by College of Technology, GBPUA&T for Academic Excellence, 2016-2020.
-* Served as **Head Boy** at Campus School Pantnagar, 2015-2016.
+* Served as **Chairperson** at IEEE EDS Student Branch Chapter, IIT Gandhinagar, 2022-2025.
+* Served as **Treasurer** at The Robotics Club, College of Technology Pantnagar, 2019-2020.
+* Served as **Head of Student Council** at Campus School Pantnagar, 2015-2016.
+  
