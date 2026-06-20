@@ -5,10 +5,26 @@ permalink: /publications/
 author_profile: true
 
 ---
-# Conferences  
-14\. S. Mohanty, P. Patil, **Om Maheshwari**,  N. Mohapatra. “Ionic Reflection-Induced Profile Evolution in 3D NAND Etching: Mechanisms and Optimization Strategies”, **SEMI ASMC**, Albany USA, **2026**. (Accepted)
 
-13\. S. Mohanty, S. K. Swain, **Om Maheshwari**, Pardeep P, N. Mohapatra. “Linking Reactor to Feature Scale: Process Simulation of Argon Plasma Etching using computProcess”, **SEMI ASMC**, Albany USA, **2026**. (Accepted)
+# Journals
+
+5\. **Om Maheshwari**, and N. Mohapatra, “Unified machine learning framework for process–device–circuit variability quantification of inner spacer etch in GAA FETs,”IEEE Transactions on Semiconductor Manufacturing, June, 2026, DOI: 10.1109/TSM.2026.3701836.
+
+4\. **Om Maheshwari**, and N. Mohapatra, “Sample-efficient modeling and optimization of high-dimensional semiconductor processes using output-augmented Gaussian process regression and dynamic Bayesian optimization,” IEEE Transactions on Semiconductor Manufacturing, vol. 39, no. 2, pp. 266-273, May 2026, DOI: 10.1109/TSM.2026.3683804.
+
+3\. A. Singh, J. Pal, **Om Maheshwari**, N. Mohapatra. “Comprehensive Study of Parasitic Capacitance in CFETs: An Analytical Perspective”, **IEEE Transactions on Electron Devices, 2025**, DOI: 10.1109/TED.2025.3585907.
+
+2\. **Om Maheshwari**, A. Singh, N. Mohapatra. “Training Free Parameter Extraction for Compact Device Models using Sequential Bayesian Optimization with Adaptive Sampling”, **IEEE Transactions on Electron Devices, 2024**, vol. 71, no. 12, pp. 7889-7895, Dec. 2024, DOI: 10.1109/TED.2024.3478177.
+
+1\. A. Singh, **Om Maheshwari**, N. Mohapatra. “Parasitic Capacitance in Nanosheet FETs: Extraction of Different Components and Their Analytical Modeling," **IEEE Transactions on Electron Devices, 2024**, vol. 71, no. 5, pp. 2894-2900, May 2024, DOI: 10.1109/TED.2024.3382216.
+
+
+---
+# Conferences  
+
+14\. S. Mohanty, **Om Maheshwari**,  N. Mohapatra. “Impact of Surface Charging on Feature Profile Evolution in 3D NAND Pillar Etching”, **SISPAD**, Kumamoto Japan, **2026**. (Accepted)
+
+13\. S. Mohanty, P. Patil, **Om Maheshwari**,  N. Mohapatra. “Ionic Reflection-Induced Profile Evolution in 3D NAND Etching: Mechanisms and Optimization Strategies”, **SEMI ASMC**, Albany USA, **2026**. 
 
 12\. S. Behera^, **Om Maheshwari^**,  N. Mohapatra. “Benchmarking Optimization Algorithms for BSIM-CMG Compact Model Parameter Extraction”, **IEEE ICEE 2025**. (^Equal Contributors)
 
@@ -34,13 +50,3 @@ author_profile: true
 
 1\. **Om Maheshwari**, R. Katiyar, A. Dasgupta, A. Chakravorty, D. R. Nair and N.R. Mohapatra, "An Indigenous Low-Cost Robust BiCMOS Process Flow for NavIC Applications," **ICEE 2022**, Bangalore, India, DOI: 10.1109/ICEE56203.2022.10118318, Received **Best Paper Award**.  
 
-# Journals
-
-3\. A. Singh, J. Pal, **Om Maheshwari**, N. Mohapatra. “Comprehensive Study of Parasitic Capacitance in CFETs: An Analytical Perspective”, **IEEE Transactions on Electron Devices, 2025**, DOI: 10.1109/TED.2025.3585907.
-
-2\. **Om Maheshwari**, A. Singh, N. Mohapatra. “Training Free Parameter Extraction for Compact Device Models using Sequential Bayesian Optimization with Adaptive Sampling”, **IEEE Transactions on Electron Devices, 2024**, vol. 71, no. 12, pp. 7889-7895, Dec. 2024, DOI: 10.1109/TED.2024.3478177.
-
-1\. A. Singh, **Om Maheshwari**, N. Mohapatra. “Parasitic Capacitance in Nanosheet FETs: Extraction of Different Components and Their Analytical Modeling," **IEEE Transactions on Electron Devices, 2024**, vol. 71, no. 5, pp. 2894-2900, May 2024, DOI: 10.1109/TED.2024.3382216.
-  
-
-  
