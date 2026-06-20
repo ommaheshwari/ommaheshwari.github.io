@@ -16,7 +16,8 @@ The project is currently under active development, with a public release planned
 
 In parallel, we are also developing *ComputPlasma*, an integrated plasma reactor modeling framework. Together, *ComputPlasma* and *nanoPMC* will form *ComputProcess*, an end-to-end multiscale simulation platform that seamlessly bridges reactor-scale plasma dynamics and feature-scale process evolution.  
 
-Project contributors: Om Maheshwari (PhD. IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar)     
+nanoPMC contributors: Om Maheshwari (Ph.D. IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar)  
+computPlasma contributors: Siddharth Mohanty(Ph.D., IIT Gandhinagar), Om Maheshwari (Ph.D., IIT Gandhinagar), Sandeep Swain (M.Sc., IIT IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar),
 
 ## Glimpses
 Some glimpses of the Version2 (C++ based with GUI) of nanoPMC: 
@@ -30,13 +31,13 @@ Some glimpses of the Version2 (C++ based with GUI) of nanoPMC:
 
 Version1:  
 <p align="center">
-  <video width="900" autoplay loop muted playsinline>
-    <source src="/images/nanopmc.mp4" type="video/mp4">
+  <video width="600" autoplay loop muted playsinline>
+    <source src="/images/nsfet.mp4" type="video/mp4">
   </video>
 </p>
 
 <p align="center">
-  <video width="900" autoplay loop muted playsinline>
+  <video width="600" autoplay loop muted playsinline>
     <source src="/images/radicals.mp4" type="video/mp4">
   </video>
 </p>
