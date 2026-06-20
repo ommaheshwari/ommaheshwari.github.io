@@ -40,7 +40,7 @@ Work experience
 ======
 
 * **February 2026- Present: Senior Engineer-Technology Development, Micron, India** 
-  * Supporting technology pathfinding and process integration for next-generation 3D NAND memory technologies through advanced modeling, process optimization, and variability analysis. Collaborating with cross-functional process, integration, and device teams to evaluate technology scaling options and manufacturing trade-offs.  
+  * Driving technology pathfinding for next-generation 3D NAND memory through advanced process modeling, optimization, and variability analysis. Evaluating integration trade-offs and scaling opportunities in collaboration with process, integration, and device engineering teams.   
 
 * **April 2025- August 2025: Research Intern, Micron, India** Technology Development- Advanced Modeling
   * Developed a data-efficient Gaussian Process Regression and Bayesian Optimization framework for modeling and optimization of high-dimensional semiconductor processes, with applications to HAR etch development in advanced 3D NAND technologies.  
