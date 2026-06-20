@@ -6,23 +6,17 @@ permalink: /nanopmc/
 venue: "nanoDC Lab, IIT Gandhinagar, Electrical Engineering Department"
 ---
 
+**nanoPMC** is a part of *ComputProcess*, an open-source initiative aimed at developing an end-to-end semiconductor process simulation framework that bridges reactor-scale plasma modeling and feature-scale process evolution. The vision is to create an accessible, transparent, and extensible platform for semiconductor process research and education.
 
+As part of this effort, **nanoPMC** serves as the feature-scale simulation engine, providing GPU-accelerated particle Monte Carlo modeling of particle transport and surface interactions in advanced plasma etching and deposition processes. Written in modern C++, nanoPMC enables efficient simulation of particle transport and surface interactions in advanced plasma etching and deposition processes, providing high-fidelity process profile prediction with significantly reduced computational cost.  
 
-**nanoPMC** is an open-source, GPU-accelerated particle Monte Carlo (PMC) simulator developed for feature-scale semiconductor process modeling. Written in modern C++, nanoPMC enables efficient simulation of particle transport and surface interactions in advanced plasma etching and deposition processes, providing high-fidelity process profile prediction with significantly reduced computational cost.  
+*ComputProcess* (and as an extension, nanoPMC) was inspired by challenges I faced during my Ph.D., where access to semiconductor process simulation tools was often limited by cost, proprietary licensing, or export restrictions. Through *ComputProcess*, we aim to make process simulation more accessible by developing a fast, lightweight, and open-source platform that can run efficiently on everyday hardware, enabling more researchers and students to contribute to this field.
 
-The motivation behind nanoPMC stems from challenges encountered during my Ph.D. research. While process simulation plays a critical role in semiconductor technology development, access to advanced simulation tools remains limited. Most process simulation platforms are proprietary, developed and maintained within industry, while commercially available tools are often expensive and subject to export-control restrictions. As a result, academic researchers frequently face significant barriers to entering and contributing to the field.
-
-This lack of accessibility has contributed to a fragmented process simulation ecosystem and comparatively fewer open academic contributions than in device simulation, circuit design, or machine learning. nanoPMC was conceived to help address this gap by providing an open, transparent, and extensible platform for semiconductor process modeling.
-
-Our goal is to develop a simulation framework that is not only physically meaningful and computationally efficient, but also accessible to students, researchers, and educators worldwide. By leveraging modern GPU acceleration, nanoPMC is designed to run efficiently on consumer-grade hardware, including laptops equipped with modest GPUs, eliminating the need for expensive computing infrastructure. We hope this effort lowers the barrier to entry for process simulation research and fosters a broader open-source community around semiconductor manufacturing technologies.
-
-
+With *ComputProcess*, we aim to build a fast, lightweight, and open-source simulation platform that can run efficiently even on consumer-grade GPUs. Our hope is to lower the barrier to entry and enable more students and researchers to explore, learn, and contribute to semiconductor process modeling.
 
 The development of nanoPMC is being led by **[nanoDC Lab](https://in.linkedin.com/company/nanodc-lab)**, Department of Electrical Engineering, IIT Gandhinagar, with the goal of providing an open, scalable, and extensible platform for semiconductor process simulation and research.  
 
 The project is currently under active development, with a public release planned soon. Stay tuned for documentation, source code, examples, and tutorials.  
-
-In parallel, we are also developing *ComputPlasma*, an integrated plasma reactor modeling framework. Together, *ComputPlasma* and *nanoPMC* will form *ComputProcess*, an end-to-end multiscale simulation platform that seamlessly bridges reactor-scale plasma dynamics and feature-scale process evolution.  
 
 nanoPMC contributors: Om Maheshwari (Ph.D. IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar)  
 computPlasma contributors: Siddharth Mohanty (Ph.D., IIT Gandhinagar), Om Maheshwari (Ph.D., IIT Gandhinagar), Sandeep Swain (M.Sc., IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar)
