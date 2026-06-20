@@ -26,9 +26,9 @@ Research interests
   
 Technical Skills
 ======
-**EDA Tools -** Synopsys TCAD, Topography, Process Explorer, Quantum ATK, Silvaco Victory Process Analytics, Cadence Virtuoso, Xilinx ISE Design Suite, MATLAB, LT-Spice, TINA, Arduino
-
-**Programming -** Python, Verilog, Verilog-A, Shell
+**EDA Tools -** Synopsys TCAD, Topography, Process Explorer, Quantum ATK, Cadence Virtuoso, LT-Spice, TINA
+**Process Analytics -** Silvaco Victory Process Analytics, JMP, Design of Experiments (DOE), Machine Learning
+**Programming -** Python, MATLAB, Verilog, Verilog-A, Shell
 
 Education
 ======
@@ -38,6 +38,7 @@ Education
 
 Work experience
 ======
+
 * **February 2026- Present: Senior Engineer-Technology Development, Micron, India** 
   * Supporting technology pathfinding and process integration for next-generation 3D NAND memory technologies through advanced modeling, process optimization, and variability analysis. Collaborating with cross-functional process, integration, and device teams to evaluate technology scaling options and manufacturing trade-offs.
 
