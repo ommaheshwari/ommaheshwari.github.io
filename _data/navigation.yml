@@ -1,17 +1,16 @@
 # main links links
 main:
   - title: "Awards and Achievements"
-    url: /awards/  
+    url: /awards/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Publications"
-    url: /publications/  
+    url: /teaching/
 
- - title: "nanoPMC"
-    url: /nanopmc/  
-    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "nanoPMC"
+    url: /nanopmc/
+
   - title: "CV"
     url: /cv/
-    
