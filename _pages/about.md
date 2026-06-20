@@ -16,19 +16,19 @@ I am also a **PMRF Research Scholar** in the Discipline of Electrical Engineerin
 
 Research interests
 ======
- ⇒  Advanced CMOS and GAA Technologies  
- ⇒ Semiconductor Process-Device Modeling and Variability Analysis 
- ⇒ Process–Device Co-Optimization 
- ⇒ 3D NAND Technology Development
- ⇒ Machine Learning in Semiconductor Research 
+ ⇒  Advanced CMOS and GAA Technologies    
+ ⇒ Semiconductor Process-Device Modeling and Variability Analysis   
+ ⇒ Process–Device Co-Optimization   
+ ⇒ 3D NAND Technology Development  
+ ⇒ Machine Learning in Semiconductor Research  
 
 
   
 Technical Skills
 ======
-**EDA Tools -** Synopsys TCAD, Topography, Process Explorer, Quantum ATK, Cadence Virtuoso, LT-Spice, TINA
-**Process Analytics -** Silvaco Victory Process Analytics, JMP, Design of Experiments (DOE), Machine Learning
-**Programming -** Python, MATLAB, Verilog, Verilog-A, Shell
+**EDA Tools -** Synopsys TCAD, Topography, Process Explorer, Quantum ATK, Cadence Virtuoso, LT-Spice, TINA  
+**Process Analytics -** Silvaco Victory Process Analytics, JMP, Design of Experiments (DOE), Machine Learning  
+**Programming -** Python, MATLAB, Verilog, Verilog-A, Shell  
 
 Education
 ======
@@ -40,13 +40,13 @@ Work experience
 ======
 
 * **February 2026- Present: Senior Engineer-Technology Development, Micron, India** 
-  * Supporting technology pathfinding and process integration for next-generation 3D NAND memory technologies through advanced modeling, process optimization, and variability analysis. Collaborating with cross-functional process, integration, and device teams to evaluate technology scaling options and manufacturing trade-offs.
+  * Supporting technology pathfinding and process integration for next-generation 3D NAND memory technologies through advanced modeling, process optimization, and variability analysis. Collaborating with cross-functional process, integration, and device teams to evaluate technology scaling options and manufacturing trade-offs.  
 
 * **April 2025- August 2025: Research Intern, Micron, India** Technology Development- Advanced Modeling
-  * Developed a data-efficient Gaussian Process Regression and Bayesian Optimization framework for modeling and optimization of high-dimensional semiconductor processes, with applications to HAR etch development in advanced 3D NAND technologies.
+  * Developed a data-efficient Gaussian Process Regression and Bayesian Optimization framework for modeling and optimization of high-dimensional semiconductor processes, with applications to HAR etch development in advanced 3D NAND technologies.  
     
 * **April 2024- October 2024 Research Intern, Applied Materials, India,** Process Modeling Group
-  * Developed a feature-scale Particle Monte Carlo simulator for etch and deposition process modeling. Investigated process variability in Gate-All-Around transistor fabrication and developed predictive frameworks for process optimization.
+  * Developed a feature-scale Particle Monte Carlo simulator for etch and deposition process modeling. Investigated process variability in Gate-All-Around transistor fabrication and developed predictive frameworks for process optimization.  
         
 * **December 2022 - 2026 : Chairperson - IEEE Electron Devices Society IITGn**
   * Student Branch Chapter, IIT Gandhinagar
