@@ -18,7 +18,7 @@ The development of *ComputProcess* is being led by **[nanoDC Lab](https://in.lin
 
 The project is currently under active development, with a public release planned soon. Stay tuned for documentation, source code, examples, and tutorials.  
 
-nanoPMC contributors: Om Maheshwari (Ph.D. IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar)  
+nanoPMC contributors: Om Maheshwari (Ph.D. IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar), Pardeep Kumar (Applied Materials)    
 computPlasma contributors: Siddharth Mohanty (Ph.D., IIT Gandhinagar), Om Maheshwari (Ph.D., IIT Gandhinagar), Sandeep Swain (M.Sc., IIT Gandhinagar), Rudra Choubey (B.Tech, IIT Gandhinagar)
 
 ## Glimpses
