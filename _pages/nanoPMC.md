@@ -28,18 +28,7 @@ Some glimpses of the Version2 (C++ based with GUI) of nanoPMC:
   <!-- <img src="/assets/images/nanopmc3.png" width="30%"> -->
 </p>
 
-Version1:  
-<p align="center">
-  <video width="900" autoplay loop muted playsinline>
-    <source src="/images/nanopmc.mp4" type="video/mp4">
-  </video>
-</p>
 
-<p align="center">
-  <video width="900" autoplay loop muted playsinline>
-    <source src="/images/radicals.mp4" type="video/mp4">
-  </video>
-</p>
 
 
 ## Relevant Publications
