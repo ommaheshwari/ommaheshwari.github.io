@@ -12,6 +12,7 @@ I am a **Senior Engineer in Technology Development at [Micron Technology](https:
 
 I am also a **PMRF Research Scholar** in the Discipline of Electrical Engineering at **[nanoDC Lab, IIT Gandhinagar](https://www.linkedin.com/company/nanodc-lab/)**, working with **[Prof. Nihar Ranjan Mohapatra](https://niharmohapatra.github.io/)**. My research interests include semiconductor process and device modeling, process–device co-optimization, machine learning for semiconductor technology development, and advanced CMOS technologies.
 
+I am particularly enthusiastic about open-source semiconductor simulation tools and currently lead the development of *nanoPMC*, a GPU-accelerated particle Monte Carlo simulator for feature-scale process modeling, as part of the broader *ComputProcess* initiative. More details about the project can be found on the [nanoPMC page](/nanopmc/).
 
 
 Research interests
