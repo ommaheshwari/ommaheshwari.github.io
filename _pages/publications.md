@@ -8,15 +8,15 @@ author_profile: true
 
 # Journals
 
-5\. **Om Maheshwari**, and N. Mohapatra, “Unified machine learning framework for process–device–circuit variability quantification of inner spacer etch in GAA FETs,”IEEE Transactions on Semiconductor Manufacturing, June, 2026, DOI: 10.1109/TSM.2026.3701836.
+5\. **Om Maheshwari**, and N. Mohapatra, “Unified machine learning framework for process–device–circuit variability quantification of inner spacer etch in GAA FETs,” **IEEE Transactions on Semiconductor Manufacturing**, June, 2026, DOI: 10.1109/TSM.2026.3701836.
 
-4\. **Om Maheshwari**, and N. Mohapatra, “Sample-efficient modeling and optimization of high-dimensional semiconductor processes using output-augmented Gaussian process regression and dynamic Bayesian optimization,” IEEE Transactions on Semiconductor Manufacturing, vol. 39, no. 2, pp. 266-273, May 2026, DOI: 10.1109/TSM.2026.3683804.
+4\. **Om Maheshwari**, and N. Mohapatra, “Sample-efficient modeling and optimization of high-dimensional semiconductor processes using output-augmented Gaussian process regression and dynamic Bayesian optimization,” **IEEE Transactions on Semiconductor Manufacturing**, vol. 39, no. 2, pp. 266-273, May 2026, DOI: 10.1109/TSM.2026.3683804.
 
-3\. A. Singh, J. Pal, **Om Maheshwari**, N. Mohapatra. “Comprehensive Study of Parasitic Capacitance in CFETs: An Analytical Perspective”, **IEEE Transactions on Electron Devices, 2025**, DOI: 10.1109/TED.2025.3585907.
+3\. A. Singh, J. Pal, **Om Maheshwari**, N. Mohapatra. “Comprehensive Study of Parasitic Capacitance in CFETs: An Analytical Perspective”, **IEEE Transactions on Electron Devices**, DOI: 10.1109/TED.2025.3585907.
 
-2\. **Om Maheshwari**, A. Singh, N. Mohapatra. “Training Free Parameter Extraction for Compact Device Models using Sequential Bayesian Optimization with Adaptive Sampling”, **IEEE Transactions on Electron Devices, 2024**, vol. 71, no. 12, pp. 7889-7895, Dec. 2024, DOI: 10.1109/TED.2024.3478177.
+2\. **Om Maheshwari**, A. Singh, N. Mohapatra. “Training Free Parameter Extraction for Compact Device Models using Sequential Bayesian Optimization with Adaptive Sampling”, **IEEE Transactions on Electron Devices**, vol. 71, no. 12, pp. 7889-7895, Dec. 2024, DOI: 10.1109/TED.2024.3478177.
 
-1\. A. Singh, **Om Maheshwari**, N. Mohapatra. “Parasitic Capacitance in Nanosheet FETs: Extraction of Different Components and Their Analytical Modeling," **IEEE Transactions on Electron Devices, 2024**, vol. 71, no. 5, pp. 2894-2900, May 2024, DOI: 10.1109/TED.2024.3382216.
+1\. A. Singh, **Om Maheshwari**, N. Mohapatra. “Parasitic Capacitance in Nanosheet FETs: Extraction of Different Components and Their Analytical Modeling," **IEEE Transactions on Electron Devices**, vol. 71, no. 5, pp. 2894-2900, May 2024, DOI: 10.1109/TED.2024.3382216.
 
 
 ---
