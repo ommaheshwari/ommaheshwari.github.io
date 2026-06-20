@@ -1,6 +1,7 @@
 ---
 title: "nanoPMC"
 collection: archive
+author_profile: true
 permalink: /nanoPMC/
 venue: "nanoDC Lab, IIT Gandhinagar, Electrical Engineering Department"
 ---
