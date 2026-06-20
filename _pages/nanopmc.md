@@ -28,9 +28,11 @@ Some glimpses of the Version2 (C++ based with GUI) of nanoPMC:
   
 <p align="center">
   <img src="/images/glimpse1.webp" width="100%">  
+</p>
 
-- A 3D NAND pillar etch example in nanoPMC
-  
+- A 3D NAND pillar etch example in nanoPMC  
+
+<p align="center">
   <img src="/images/glimpse2.webp" width="20%">
   <!-- <img src="/assets/images/nanopmc3.png" width="30%"> -->
 </p>
