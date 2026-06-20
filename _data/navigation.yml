@@ -8,6 +8,9 @@ main:
     
   - title: "Publications"
     url: /publications/  
+
+ - title: "nanoPMC"
+    url: /nanoPMC/  
     
   - title: "CV"
     url: /cv/
