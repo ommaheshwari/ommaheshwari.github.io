@@ -14,7 +14,7 @@ As part of this effort, **nanoPMC** serves as the feature-scale simulation engin
 
 With *ComputProcess*, we aim to build a fast, lightweight, and open-source simulation platform that can run efficiently even on consumer-grade GPUs. Our hope is to lower the barrier to entry and enable more students and researchers to explore, learn, and contribute to semiconductor process modeling.
 
-The development of nanoPMC is being led by **[nanoDC Lab](https://in.linkedin.com/company/nanodc-lab)**, Department of Electrical Engineering, IIT Gandhinagar, with the goal of providing an open, scalable, and extensible platform for semiconductor process simulation and research.  
+The development of *ComputProcess* is being led by **[nanoDC Lab](https://in.linkedin.com/company/nanodc-lab)**, Department of Electrical Engineering, IIT Gandhinagar, with the goal of providing an open, scalable, and extensible platform for semiconductor process simulation and research.  
 
 The project is currently under active development, with a public release planned soon. Stay tuned for documentation, source code, examples, and tutorials.  
 
@@ -58,12 +58,15 @@ Version1 (pytorch based script):
 ## Relevant Publications
 
 - **Om Maheshwari, P. Kumar, S. Barai, and N. Mohapatra**,  
-  "*nanoPMC: A GPU-Accelerated Particle Monte Carlo Simulator for Feature-Scale Semiconductor Process Modeling*,"  
-  IMECE India, 2025. DOI: 10.1115/IMECE-INDIA2025-160835.
+  "*nanoPMC: A GPU-Accelerated Particle Monte Carlo Simulator for Feature-Scale Semiconductor Process Modeling*," ASME IMECE India, 2025. DOI: 10.1115/IMECE-INDIA2025-160835.
 
 - **S. Mohanty, S. K. Swain, Om Maheshwari, P. Kumar, and N. Mohapatra**,  
-  "*ComputPlasma: A Coupled Bulk and Sheath Plasma Reactor Model for Semiconductor Process Modeling*,"  
-  IEEE ICEE, 2025.
+  "*ComputPlasma – An Indigenous Plasma Simulator for Semiconductor Process Modeling*,"  
+  2025 IEEE 7th International Conference on Emerging Electronics (ICEE), Bengaluru, India, 2025, pp. 1-4, doi: 10.1109/ICEE67165.2025.11409843.
+
+**Sister Tool: ComputLitho**
+
+- P. Kumar, T. Joshi, R. Joglekar and N. R. Mohapatra, "ComputLitho – An Indigenous Optical Lithography Simulator with Novel Features," 2024 8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Bangalore, India, 2024, pp. 1-3, doi: 10.1109/EDTM58488.2024.10511904. 
 
 
 
