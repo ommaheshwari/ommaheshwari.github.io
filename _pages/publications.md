@@ -28,11 +28,11 @@ author_profile: true
 
 12\. S. Behera^, **Om Maheshwari^**,  N. Mohapatra. “Benchmarking Optimization Algorithms for BSIM-CMG Compact Model Parameter Extraction”, **IEEE ICEE 2025**. (^Equal Contributors)
 
-11\. S. Mohanty, S. K. Swain, **Om Maheshwari**,  P. Kumar, N. Mohapatra.“computPlasma: A Coupled Bulk and Sheath Plasma Reactor Model for Semiconductor Process Modeling”, **IEEE ICEE 2025**. 
+11\. S. Mohanty, S. K. Swain, **Om Maheshwari**, P. Kumar and N. R. Mohapatra, "ComputPlasma – An Indigenous Plasma Simulator for Semiconductor Process Modeling," **IEEE ICEE 2025**, Bengaluru, India, DOI: 10.1109/ICEE67165.2025.11409843.
 
 10\. **Om Maheshwari**, N. Mohapatra. “Process-Performance Variability Modeling of Inner Spacer Etch in GAA FETs”, **SISPAD**, Grenoble France, **2025**, DOI: 10.1109/SISPAD66650.2025.11186016.
   
-9\ **Om Maheshwari**, P. Kumar, S. Barai, N. Mohapatra. “nanoPMC: A GPU- Accelerated Particle Monte Carlo Simulator for Feature-scale Semiconductor Process Modeling”, **IMECE India, 2025**, DOI: 10.1115/IMECE-INDIA2025-160835.
+9\. **Om Maheshwari**, P. Kumar, S. Barai, N. Mohapatra. “nanoPMC: A GPU- Accelerated Particle Monte Carlo Simulator for Feature-scale Semiconductor Process Modeling”, **ASME IMECE India, 2025**, DOI: 10.1115/IMECE-INDIA2025-160835.
   
 8\. **Om Maheshwari**, P. Kumar, S. Barai, N. Mohapatra. “From Variations to Precision: Modeling and Optimization of Inner Spacer Etch in GAA FETs”, **SEMI ASMC**, Albany USA, **2025**, DOI: 10.1109/ASMC64512.2025.11010557.
 
