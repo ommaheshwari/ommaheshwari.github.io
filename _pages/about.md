@@ -8,21 +8,21 @@ redirect_from:
   - /about.html/
 ---
 
-I am a PMRF Research Scholar in the Discipline of Electrical Engineering at [nanoDC Lab, IIT Gandhinagar](https://www.linkedin.com/company/nanodc-lab/) working with [Prof. Nihar Ranjan Mohapatra](https://niharmohapatra.github.io/). I am currently working on Machine Learning assisted Device-Process Modeling and Co-optimization for Next Generation CMOS Technologies.
+I am a **Senior Engineer in Technology Development at [Micron Technology](https://www.micron.com/)**, where I work on technology pathfinding and process integration through advanced modeling solutions for future generations of 3D NAND memory technologies.
+
+I am also a **PMRF Research Scholar** in the Discipline of Electrical Engineering at **[nanoDC Lab, IIT Gandhinagar](https://www.linkedin.com/company/nanodc-lab/)**, working with **[Prof. Nihar Ranjan Mohapatra](https://niharmohapatra.github.io/)**. My research interests include semiconductor process and device modeling, process–device co-optimization, machine learning for semiconductor technology development, and advanced CMOS technologies.
 
 
 
 Research interests
 ======
- ⇒ Application of Machine Learning in Semiconductor Research  
- ⇒ Advanced CMOS Devices  
- ⇒ Semiconductor Process Modeling and Optimization   
- ⇒ Next-generation CMOS Device Design   
+ ⇒  Advanced CMOS and GAA Technologies  
+ ⇒ Semiconductor Process-Device Modeling and Variability Analysis 
+ ⇒ Process–Device Co-Optimization 
+ ⇒ 3D NAND Technology Development
+ ⇒ Machine Learning in Semiconductor Research 
 
-Education
-======
-* **PhD (PMRF) in Electrical Engineering**, IIT Gandhinagar, January 2021 - Present
-* **B.Tech in Electronics and Communication Enineering**, College of Technology, GBPUA&T, 2016-2020.
+
   
 Technical Skills
 ======
@@ -30,26 +30,35 @@ Technical Skills
 
 **Programming -** Python, Verilog, Verilog-A, Shell
 
+Education
+======
+* **PhD (PMRF) in Electrical Engineering**, IIT Gandhinagar, January 2021 - Present
+* **B.Tech in Electronics and Communication Enineering**, College of Technology, GBPUA&T, 2016-2020.
+
+
 Work experience
 ======
+* **February 2026- Present: Senior Engineer-Technology Development, Micron, India** 
+  * Supporting technology pathfinding and process integration for next-generation 3D NAND memory technologies through advanced modeling, process optimization, and variability analysis. Collaborating with cross-functional process, integration, and device teams to evaluate technology scaling options and manufacturing trade-offs.
+
 * **April 2025- August 2025: Research Intern, Micron, India** Technology Development- Advanced Modeling
-  * Devised a novel ML methodology for modeling and reverse engineering with interpretable insights, for high dimensional and less sampled processes.
+  * Developed a data-efficient Gaussian Process Regression and Bayesian Optimization framework for modeling and optimization of high-dimensional semiconductor processes, with applications to HAR etch development in advanced 3D NAND technologies.
     
 * **April 2024- October 2024 Research Intern, Applied Materials, India,** Process Modeling Group
-  * Designed a custom Particle Monte-Carlo simulator for modeling feature-scale etching and deposition processes. Implemented a Machine Learning framework for modeling and optimization of Inner-Spacer etching process in Gate-All-Around FETs.
-    
-* **December 2022 - Present : Chairperson - IEEE Electron Devices Society IITGn**
+  * Developed a feature-scale Particle Monte Carlo simulator for etch and deposition process modeling. Investigated process variability in Gate-All-Around transistor fabrication and developed predictive frameworks for process optimization.
+        
+* **December 2022 - 2026 : Chairperson - IEEE Electron Devices Society IITGn**
   * Student Branch Chapter, IIT Gandhinagar
   
-* **July 2022 - Present : PMRF-NPTEL Teaching Assistant**
+* **July 2022 - 2026 : PMRF-NPTEL Teaching Assistant**
   * NPTEL
-  * Course: Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP), Digital System Design (IITRPR), Introduction to Semiconductor Devices (IITH)
+  * Course: Introduction to Semiconductor Devices (IITH), Semiconductor Device Modeling and Simulations (IITKGP), Analog Electronic Circuits (IITD), Digital Electronic Circuits (IITKGP), Digital System Design (IITRPR)
   
-* **2021 - Present: Teaching Assistant**
+* **2021 - 2026: Teaching Assistant**
   * IIT Gandhinagar
-  * Courses: Introduction to Analog and Digital Electronics, Physics of Transistors, Microelectronics Lab, Analog CMOS IC Design
+  * Courses: Physics of Transistors, Microelectronics Lab, Analog CMOS IC Design, Introduction to Analog and Digital Electronics
 
-* **2022 - Present: Graduate Teaching Fellow**
+* **2022 - 2023: Graduate Teaching Fellow**
   * IIT Gandhinagar
   * Course: Introduction to Analog and Digital Electronics (2022), Analog CMOS IC Design Lab (2023)
 
