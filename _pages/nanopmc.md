@@ -24,19 +24,27 @@ computPlasma contributors: Siddharth Mohanty (Ph.D., IIT Gandhinagar), Om Mahesh
 ## Glimpses
 Some glimpses of the Version2 (C++ based with GUI) of nanoPMC: 
 
+- nanoPMC interface
+  
 <p align="center">
   <img src="/images/glimpse1.webp" width="100%">  
+
+- A 3D NAND pillar etch example in nanoPMC
   
   <img src="/images/glimpse2.webp" width="20%">
   <!-- <img src="/assets/images/nanopmc3.png" width="30%"> -->
 </p>
 
-Version1:  
+Version1 (pytorch based script):  
+
+- Inner spacer etch simulation  
 <p align="center">
   <video width="600" autoplay loop muted playsinline>
     <source src="/images/nsfet.mp4" type="video/mp4">
   </video>
 </p>
+
+- Generic ionic etch simulation  
 
 <p align="center">
   <video width="600" autoplay loop muted playsinline>
