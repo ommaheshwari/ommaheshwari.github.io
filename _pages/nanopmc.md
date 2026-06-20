@@ -7,7 +7,6 @@ venue: "nanoDC Lab, IIT Gandhinagar, Electrical Engineering Department"
 ---
 
 
-### nanoPMC
 
 **nanoPMC** is an open-source, GPU-accelerated particle Monte Carlo (PMC) simulator developed for feature-scale semiconductor process modeling. Written in modern C++, nanoPMC enables efficient simulation of particle transport and surface interactions in advanced plasma etching and deposition processes, providing high-fidelity process profile prediction with significantly reduced computational cost.  
 
